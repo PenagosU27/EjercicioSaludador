@@ -1,0 +1,10 @@
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.csprojAssemblyReference.cache
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.Form1.resources
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.Properties.Resources.resources
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.csproj.GenerateResource.cache
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.csproj.CoreCompileInputs.cache
+C:\Users\Penagos\source\repos\Saludador\Saludador\bin\Debug\Saludador.exe.config
+C:\Users\Penagos\source\repos\Saludador\Saludador\bin\Debug\Saludador.exe
+C:\Users\Penagos\source\repos\Saludador\Saludador\bin\Debug\Saludador.pdb
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.exe
+C:\Users\Penagos\source\repos\Saludador\Saludador\obj\Debug\Saludador.pdb
